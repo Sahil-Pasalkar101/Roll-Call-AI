@@ -1,3 +1,4 @@
+streamlit
 # Ultilites
 numpy 
 pandas 
@@ -16,3 +17,6 @@ segno
 pillow
 
 streamlit
+
+librosa
+resemblyzer
